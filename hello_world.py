@@ -1,1 +1,5 @@
-print("Hello world_2") 
+n = 10.2
+print(n)
+
+print(id(n))
+print(type(n))

@@ -1,6 +1,6 @@
 def generate_subsets(lst):
     # Complete
-
+    return
 if __name__ == "__main__":
     count = int(input("How many elements? "))
     elements = []
